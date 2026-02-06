@@ -10,7 +10,12 @@
 - Checked and removed outliers,e.g a transaction with over 200 product Quantity was identified and dropped
 
 ## Visualization
+### December Transaction
 ![December christmas day](visualization/december.jpg)
+### Top Performing Brands
+![performing]
+### Number of Customers by LIFESTAGE and PREMIUM_CUSTOMER
+
 
 
 ## key Insights
