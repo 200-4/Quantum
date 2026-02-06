@@ -9,6 +9,9 @@
 - Ensured data quality by removing non-chip products such as salsa
 - Checked and removed outliers,e.g a transaction with over 200 product Quantity was identified and dropped
 
+## Visualization
+
+
 ## key Insights
 
 - Young Singles/Couples and Retirees Contribute most to chip sales.This is most by the Mainstream premium customers
