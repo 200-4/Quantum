@@ -13,8 +13,9 @@
 ### December Transaction
 ![December christmas day](visualization/december.jpg)
 ### Top Performing Brands
-![performing]
+![performing](visualization/performing_brands.png)
 ### Number of Customers by LIFESTAGE and PREMIUM_CUSTOMER
+![performing](visualization/output.png)
 
 
 
