@@ -10,6 +10,7 @@
 - Checked and removed outliers,e.g a transaction with over 200 product Quantity was identified and dropped
 
 ## Visualization
+![December](visualization/
 
 
 ## key Insights
